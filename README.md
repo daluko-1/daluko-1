@@ -27,7 +27,7 @@ Currently pursuing my **MS in Information Systems** at the University of Marylan
 - 👨‍💻 Support manual claim review  
 - 🏗️ Built with modular structure for future integrations  
 
-![Bascule Admin Screenshot](link-to-bascule-screenshot)
+![Bascule Admin Screenshot](https://raw.githubusercontent.com/daluko-1/bascule-project/main/screenshots/welcome.png)
 
 ---
 
