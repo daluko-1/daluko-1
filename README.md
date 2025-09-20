@@ -19,6 +19,18 @@ Currently pursuing my **MS in Information Systems** at the University of Marylan
 
 ---
 
+### [Bascule Admin](https://github.com/daluko-1/bascule-project)
+⚖️ A **Flask-based web app** for managing insurance claim workflows.  
+- 📂 Upload and process claim files  
+- ⚠️ Review flagged claims for anomalies  
+- 📝 Capture agent feedback  
+- 👨‍💻 Support manual claim review  
+- 🏗️ Built with modular structure for future integrations  
+
+![Bascule Admin Screenshot](link-to-bascule-screenshot)
+
+---
+
 ## 🛠️ Skills
 - **Languages & Tools**: Python, Flask, SQL, HTML/CSS, Git/GitHub  
 - **Design & Product**: Figma, UX/UI Design, User Research, Prototyping  
